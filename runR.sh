@@ -1,0 +1,1 @@
+/nz/export/ae/languages/r/3.0/host64/bin/Rscript /export/home/nz/predykcja/classifier.r
